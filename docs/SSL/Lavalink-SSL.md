@@ -62,7 +62,7 @@ Version 4.x.x
 
 ![Status](https://lavalink-api-status.triniumhost.indevs.in/v4ssl/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/v4ssl/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/v4ssl/badge/connections)
 ```bash
-Host : lavalink-v4.triniumhost.indevs.in
+Host : lavalink-v4.triniumhost.com
 Port : 443
 Password : "free"
 Secure : true
