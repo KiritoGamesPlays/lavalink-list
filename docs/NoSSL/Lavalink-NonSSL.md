@@ -84,7 +84,7 @@ Version 4.x.x
 
 ![Status](https://lavalink-api-status.triniumhost.indevs.in/v4/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/v4/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/v4/badge/connections)
 ```bash
-Host : lavalink.triniumhost.indevs.in
+Host : lavalink.triniumhost.com
 Port : 4333
 Password : "free"
 Secure : false
@@ -94,7 +94,7 @@ Version: Nodelink 3.x.x
 
 ![Status](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/connections)
 ```bash
-Host : lavalink.triniumhost.indevs.in
+Host : lavalink.triniumhost.com
 Port : 9008
 Password : "free"
 Secure : false
