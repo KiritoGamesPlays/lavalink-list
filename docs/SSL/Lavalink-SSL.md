@@ -72,7 +72,7 @@ Version: Nodelink 3.x.x
 
 ![Status](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/connections)
 ```bash
-Host : nodelink.triniumhost.indevs.in
+Host : nodelink.triniumhost.com
 Port : 443
 Password : "free"
 Secure : true
